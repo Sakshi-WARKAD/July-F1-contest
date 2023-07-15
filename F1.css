@@ -1,0 +1,63 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+}
+/* nav{
+    background-color: color;
+} */
+nav h3{
+    background-color: black;
+    height:20px;
+    width:100%;
+    color: white;
+    align-content: center;
+    padding: 10px;
+}
+.first-section, .second-section h1,h2,p,img {
+    margin:10px;
+    
+}
+.first-section button{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    padding: 0px 20px 0px 10px;
+    font-size: 20px;
+}
+.first-section a{
+    text-decoration: none;
+    color:white;
+}
+.second-section img{
+    width:45%;
+    height: 50%;    
+}
+.list h1{
+    padding: 10px;
+}
+.ordered-list,.unordered-list, ul,ol{
+    margin-left:10px;
+    padding: 20px;
+}
+thead th{
+    padding:10px;
+    border-collapse: collapse;
+}
+tbody td{
+    align-items: center;
+}
+table{
+    width:100%;
+}
+table, thead,td{
+    border-collapse: collapse;
+    padding: 20px;
+}
+table,h1{
+    margin:10px;
+}
+tfoot{
+    background-color: black;
+    color:white;
+}
